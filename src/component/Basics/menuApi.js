@@ -1,6 +1,7 @@
 const Menu = [
   {
     id: 1,
+    name: "Chicken Thali",
     image: "images/1.jpg",
     category: "lunch",
     price: 250,
@@ -8,6 +9,7 @@ const Menu = [
   },
   {
     id: 2,
+    name: "Poori Ghugni",
     image: "images/2.jpg",
     category: "breakfast",
     price: 250,
@@ -15,6 +17,7 @@ const Menu = [
   },
   {
     id: 3,
+    name: "Mutton Biriyani",
     image: "images/3.jpg",
     category: "dinner",
     price: 250,
@@ -22,6 +25,7 @@ const Menu = [
   },
   {
     id: 4,
+    name: "Idli & Dhosha",
     image: "images/4.jpg",
     category: "breakfast",
     price: 250,
@@ -29,8 +33,17 @@ const Menu = [
   },
   {
     id: 5,
+    name: "Pakoda",
     image: "images/5.jpg",
-    category: "dinner",
+    category: "evening",
+    price: 250,
+    description: "lorem Ipsum jhbghevghvghev jbvgvewghvgh jhbjhbgh",
+  },
+  {
+    id: 5,
+    name: "Chicken Dum Biriyani",
+    image: "images/5.jpg",
+    category: "special",
     price: 250,
     description: "lorem Ipsum jhbghevghvghev jbvgvewghvgh jhbjhbgh",
   },
